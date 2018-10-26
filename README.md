@@ -1,4 +1,4 @@
-Shoutout to __MyBridge__ for listing this project as one of the [Top 10 Python Open Source Projects of June 2018](https://medium.mybridge.co/python-open-source-of-the-month-v-june-2018-5396a661b110)!
+Shoutout to __MyBridge__ for listing this project as one of the [Top 10 Python Open Source Projects of oct 2018](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-5396a661b110)!
 
 ![Python Open Source](img/mybridge.png "MyBridge Open Source Rankings")
 
